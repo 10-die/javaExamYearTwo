@@ -1,3 +1,5 @@
+package javaExamYearTwo.twoVariableSwap;
+
 public class NumberSwapper 
 {
     // variables
